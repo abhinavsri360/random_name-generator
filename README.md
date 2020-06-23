@@ -1,6 +1,6 @@
-# startup_namer
+# random_name-generator
 
-A new Flutter project.
+This Flutter project was created to display random startup names on screen and let user choose his/er favorite ones.
 
 ## Getting Started
 
