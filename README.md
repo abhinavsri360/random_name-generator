@@ -1,4 +1,6 @@
-# random_name-generator
+[![HitCount](http://hits.dwyl.com/abhinavsri360/unplannedNames.svg)](http://hits.dwyl.com/abhinavsri360/unplannedNames)
+
+# unplannedNames
 
 This Flutter project was created to display random startup names on screen and let user choose his/er favorite ones.
 
